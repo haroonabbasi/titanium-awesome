@@ -8,7 +8,7 @@ Awesome list of Appcelerator Titanium Resources
 * [http://tiresources.hashapps.com/](http://tiresources.hashapps.com/) - Search For Titanium Resources
 * [http://ricardoalcocer.com/titanium-modules/](http://ricardoalcocer.com/titanium-modules/) - Few list of modules
 * [http://alloylove.com/] (http://alloylove.com/)
-* 
+* [http://www.titaniumcontrols.com/] (http://www.titaniumcontrols.com/)
 
 ### Tutorial, Code Snipts etc
 * [http://titaniumtips.com/] (http://titaniumtips.com/)
