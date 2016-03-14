@@ -12,3 +12,13 @@ Awesome list of Appcelerator Titanium Resources
 
 ### Tutorial, Code Snipts etc
 * [http://titaniumtips.com/] (http://titaniumtips.com/)
+
+
+#### Widgets
+* [https://github.com/Shallong/tiTabsDemo/tree/master/app/widgets/me.wslong.tiTabs] (me.wslong.tiTabs) Cross-Platform Tab Group for Titanium
+> [https://github.com/Shallong/tiTabsDemo] (Demo)
+> [https://github.com/Shallong/tiTabsDemo/blob/master/screenshots/tiTabGroup-iphone6.png]
+
+
+
+
