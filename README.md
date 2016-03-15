@@ -15,8 +15,8 @@ Awesome list of Appcelerator Titanium Resources
 
 
 #### Widgets
-* [https://github.com/Shallong/tiTabsDemo/tree/master/app/widgets/me.wslong.tiTabs] (me.wslong.tiTabs) Cross-Platform Tab Group for Titanium
-  [https://github.com/Shallong/tiTabsDemo] (Demo)
+* [me.wslong.tiTabs] (https://github.com/Shallong/tiTabsDemo/tree/master/app/widgets/me.wslong.tiTabs) Cross-Platform Tab Group for Titanium
+  [Demo] (https://github.com/Shallong/tiTabsDemo)
 
 
 
