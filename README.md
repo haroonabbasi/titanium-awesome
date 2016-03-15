@@ -17,7 +17,7 @@ Awesome list of Appcelerator Titanium Resources
 #### Widgets
 * [me.wslong.tiTabs] (https://github.com/Shallong/tiTabsDemo/tree/master/app/widgets/me.wslong.tiTabs) Cross-Platform Tab Group for Titanium
   [Demo] (https://github.com/Shallong/tiTabsDemo)
-
+* [Extended ScrollableView] (https://github.com/jkotchoff/au.jkotchoff.scrollableView) Scrollable view with page controller for iOS and android
 
 
 
