@@ -19,5 +19,7 @@ Awesome list of Appcelerator Titanium Resources
   [Demo] (https://github.com/Shallong/tiTabsDemo)
 * [Extended ScrollableView] (https://github.com/jkotchoff/au.jkotchoff.scrollableView) Scrollable view with page controller for iOS and android
 
+#### Libraries
+* [RESTe] (https://github.com/jasonkneen/RESTe) A simple JavaScript REST / API helper for Titanium
 
 
